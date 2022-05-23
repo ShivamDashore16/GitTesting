@@ -8,7 +8,7 @@ public class GitSum {
 		int b=70;
 		int c=a+b;
 		
-		System.out.println("Addition of numbers is "+c);
+		System.out.println("Addition of two numbers is "+c);
 		
 
 	}
